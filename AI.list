@@ -32,8 +32,6 @@ DOMAIN-SUFFIX,cerebras.ai
 PROCESS-NAME,Claude
 PROCESS-NAME,Claude Helper
 DOMAIN-KEYWORD,claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,usefathom.com
 
 #recraft
@@ -53,7 +51,6 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 
 #perplexity.ai
-DOMAIN-SUFFIX,perplexity.ai
 
 
 #bing chat
@@ -135,7 +132,6 @@ DOMAIN-SUFFIX,akamproxync.staging-bing-int.com
 DOMAIN-SUFFIX,akamproxysc.staging-bing-int.com
 DOMAIN-SUFFIX,akamproxywest.staging-bing-int.com
 DOMAIN-SUFFIX,cjfdbemmaeeohgibnhdhlakiahifjjcf
-DOMAIN-SUFFIX,ewlmaakam.staging-bing-int.com
 DOMAIN-SUFFIX,bngpiglbalmenaabohcooocpnljgfemj
 DOMAIN-SUFFIX,rwww.bing.com
 
@@ -149,8 +145,6 @@ DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,waa-pa.clients6.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
@@ -175,7 +169,6 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.cn
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
@@ -183,16 +176,13 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 
 # 内容：GoogleCN
 # 数量：29条
 DOMAIN-SUFFIX,265.com
-DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,alt1-mtalk.google.com
 DOMAIN-SUFFIX,alt2-mtalk.google.com
 DOMAIN-SUFFIX,alt3-mtalk.google.com
