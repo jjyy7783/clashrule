@@ -66,6 +66,12 @@ https://raw.githubusercontent.com/jjyy7783/clashrule/main/jjyy.ini
 - 当前主维护模板：`jjyy.ini`
 - 当前主仓库：`jjyy7783/clashrule`
 - 上游参考仓库仍保留为：`yjp8662/clashrule`
+- 当前 GitHub Issues / PR / Actions 未启用，日常维护以直接提交为主
+
+## 日常维护建议
+- 优先检查 `jjyy.ini` 中引用的自定义规则文件是否仍然存在且路径一致
+- 自定义 raw 链接统一使用 `https://raw.githubusercontent.com/jjyy7783/clashrule/main/...` 形式，减少混用 `refs/heads/main`
+- 如需跟进上游变化，先对比 `upstream/main` 与当前仓库差异，再决定是否选择性同步
 
 ## 致谢 / 参考
 - ACL4SSR：<https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config>
