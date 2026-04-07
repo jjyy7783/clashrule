@@ -71,6 +71,7 @@ https://raw.githubusercontent.com/jjyy7783/clashrule/main/jjyy.ini
 ## 日常维护建议
 - 优先检查 `jjyy.ini` 中引用的自定义规则文件是否仍然存在且路径一致
 - 自定义 raw 链接统一使用 `https://raw.githubusercontent.com/jjyy7783/clashrule/main/...` 形式，减少混用 `refs/heads/main`
+- 当前与 `upstream/main` 的 `jjyy.ini` 核心差异，主要就是自定义规则源已切换到当前 fork；上游暂未出现必须同步的新改动
 - 如需跟进上游变化，先对比 `upstream/main` 与当前仓库差异，再决定是否选择性同步
 
 ## 致谢 / 参考
