@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/jjyy7783/clashrule/main/jjyy.ini
 ### 新增规则怎么处理
 - 暂时拿不准归类时，先放进 `new.list`
 - 确认用途后，再移动到对应规则文件
+- `new.list` 只保留临时池属性，避免长期堆积成第二个杂项仓库
 - 尽量避免同一条规则在多个文件里重复出现
 
 ### 修改时优先注意

@@ -1,34 +1,26 @@
-#Emotn
+# 媒体 / 应用
 DOMAIN-SUFFIX,keeflys.com
 DOMAIN-SUFFIX,emotn.com
+DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,nivod4.tv
 
-#机场
+# 机场 / 订阅服务站点
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,三分机场.xyz
 DOMAIN-SUFFIX,hongxingdl.com
 
-#emby收费服购买地址
+# Emby 相关购买站
 DOMAIN-SUFFIX,mooguu.org
 
-#泥视频
-DOMAIN-SUFFIX,nivod.tv
-DOMAIN-SUFFIX,nivod4.tv
-
-#种子搜索站
+# 资源 / 脚本 / 搜索类站点
 DOMAIN-SUFFIX,btos.pw
-
-#油猴脚本
 DOMAIN-SUFFIX,sleazyfork.org
-
-#搜索站
 DOMAIN-SUFFIX,sokk45.buzz
-
-#游戏下载站
 DOMAIN-SUFFIX,gamer520.com
 
-#其他
+# 其他待观察站点
 DOMAIN-SUFFIX,69sm.cc
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,surrit.com

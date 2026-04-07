@@ -1,10 +1,9 @@
-#备用，用于新增规则
+# 备用临时规则池：新规则先落这里，确认用途后再迁移到正式分类文件
 
-#switch黑商店
+# Switch / Tinfoil 相关
 DOMAIN-SUFFIX,tinfoil.io
 DOMAIN-SUFFIX,nx.ghostland.at
 DOMAIN-SUFFIX,gandalfsax.com
 
-
-#2元店
+# 低价服务站点（待后续确认是否需要独立分类）
 DOMAIN-SUFFIX,xn--5hqx9equq.com
