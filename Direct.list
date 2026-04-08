@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,level5.blizzard.com
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,roar.iiilab.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
